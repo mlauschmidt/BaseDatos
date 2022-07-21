@@ -4,7 +4,7 @@
     "apellido": { "regexp": "[A-Z][a-z]{5,10}" },
     "email": { "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" },
     "contrasenia": { "string": {} },
-    "direccion": { "string": {} }, {"int": { "min": 0, "max": 9999 } },
+    "direccion": { "string": {} },
     "ciudad": { "string": {} },
     "provincia": { "string": {} },
     "CP": { "int": { "min": 1111, "max": 9999 } }
